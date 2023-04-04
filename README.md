@@ -1,2 +1,1 @@
-# readme
-My readme
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,django,fastapi,flask,nextjs,nodejs,git,github,githubactions,gitlab,aws,cloudflare,heroku,nginx,vercel,css,figma,html,svg,js,md,py,mongodb,mysql,postgres,sqlite,linux,raspberrypi,instagram,linkedin,twitter,discord,bots,ps,postman,replit,stackoverflow,vscode)](https://skillicons.dev)
